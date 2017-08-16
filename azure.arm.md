@@ -1,9 +1,7 @@
 
 > 本内容は、作成時点での下記ページを元に作成したものです。　　
-> https://docs.pivotal.io/pivotalcf/1-11/customizing/azure.html　　
-
-> PCF動作を保証するものではありませんので予めご了承下さい。
-
+> https://docs.pivotal.io/pivotalcf/1-11/customizing/azure.html  
+>  PCF動作を保証するものではありませんので予めご了承下さい。  
 > また、全ての内容はdocs.pivotal.ioに記載されているものに従うものとして、
 > 下記内容は、それらを補完するものとしてご活用ください。
 
